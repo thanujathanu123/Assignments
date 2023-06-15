@@ -1,0 +1,39 @@
+h1{
+    color: blueviolet;
+}
+h2{
+    color:peru;
+}
+p{
+    color: brown;
+    size: 250px;
+    text-size-adjust: 250px;
+    font-size: larger;
+    border: 0cqmax;
+    text-size-adjust: 70px;
+}
+#spl{
+    color: aqua;
+    background-color: yellowgreen;
+    transition: 5s;
+    text-align: center;
+    text-decoration: solid;
+    text-shadow: 0cqmax;
+}
+body{
+    background-image:url(https://th.bing.com/th/id/OIP.yo2WSC0ZIQBizf2bC17bwAHaFj?w=251&h=188&c=7&r=0&o=5&dpr=1.7&pid=1.7);
+    background-repeat: no-repeat;
+    background-size: 1500px 1200px;
+}
+header{
+    font-size: 80px;
+    text-align: center;
+    text-shadow: 0cqmax;
+    text-decoration: line-through;
+    -webkit-text-fill-color: brown;
+    text-size-adjust: 200px;
+    border-style: double;
+    -ms-text-size-adjust: inherit;
+
+
+
