@@ -1,0 +1,4 @@
+if the ip address end with 0 then it is network id
+if it end with numbers then it is host id
+FE = FAST ETHERNET INTERFACE(socket of router)
+router to router connection = ss           serial interfaces
