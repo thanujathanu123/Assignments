@@ -1,0 +1,51 @@
+NAT = it translates private ip in to public ip and public ip into private ip
+
+
+NAT ARE THREE TYPES
+*STATIC NAT
+*DYNAMIC NAT
+*PAT-port address translation
+
+static=== one private ip will be translated with one public ip
+this means ONE TO ONE
+(cost is not saved
+avalabilty) disadvantage
+(security is avaliable) advantage
+
+
+dynamic === many private ips can be translated with group of public ips
+(cost is saved
+security) advantage
+(all the users cannot access at the same time)disadvantage
+
+
+PAT=== all the private ips will be translated with one public ip
+port number=unique number   
+    starts from 0-65535
+(cost is saved
+security
+avalibility)  advantage
+
+
+
+static nat is required for outside to inside communication
+*if we have many servers which need public access they have to be configured with static nat
+
+
+
+
+they r two typess ip
+public
+private
+
+
+private are =(10.0.0.0
+172.16.0.0  ---- 172.31.0.0
+192.168.0.0)
+
+
+
+problems for buying public ip 
+*cost
+*security
+*avaliability
